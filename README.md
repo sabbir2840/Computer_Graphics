@@ -1,5 +1,5 @@
 # Computer_Graphics Project
-##Pakhir Chokhe Daffodil
-##Cat
+#
+#Pakhir Chokhe Daffodil AND Cat
 ![](/Daffodil.PNG)
 ![](/lab_final.PNG)
